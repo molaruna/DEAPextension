@@ -64,8 +64,6 @@ rel_family_id
 
 Fixed effect options that this tool allows: Any variable within the DEAP dataset (or additional variables that are manually added by you) 
 
-Learn more about the parameters here: ./DEAPext.R -h 
-
 # Author: maria.olaru@ucsf.edu
 
 
