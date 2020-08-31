@@ -1,9 +1,9 @@
 To use the DEAPext.R tool, you'll need to make several downloads, installations and changes to your environment. 
 
-Requirements: Step 1 - Download DEAPext files
+Requirements: Step 1 - Download DEAPext repo
 Directory: Google Drive/LPN/Projects/ABCD/code/DEAPext_package
-Download these files - DEAPext.R, fs_mat3D.sh, nda18.RDS
-Place all files in the same parent directory 
+Download the most recent .RDS file
+Place this file in the same directory as your github repository download
 Give yourself permission to execute the scripts:
 - In terminal, navigate into your parent directory
 - Type in this command: chmod 777 *
